@@ -2,7 +2,7 @@
 REM This batch file runs a specified Python script
 
 REM Change directory to the location of the Python script
-cd /d "D:\code projects\sim handbreak"
+cd ""
 
 REM Run the Python script
 python3 start.py
